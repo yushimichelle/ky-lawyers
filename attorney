@@ -1,0 +1,56 @@
+<html lang="en">
+<head>
+  <title>KY LAWYER</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body style="height:1500px">
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <div style="width:1500px;height:100px;background-color:#002b42;">
+    </div>
+    <div class="navbar-header">
+      <a href="#" class="navbar-left"><img src="kylawyers_logo.png" width="70px" height="50px" alt="logo"></a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="#">HOME</a></li>
+      <li><a href="#">ARTIST REFERRAL</a></li>
+      <li><a href="#">ATTORNEY VOLUNTEER</a></li>
+      <li class="active"><a href="#">BOARO</a></li>
+      <li><a href="#">CONTACT US</a></li>
+      <li><a href="#">DONATE</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div id="container">
+  <div id="header">
+  <h1>Attorney Volunteer</h1>
+  <p>Thank you for your interest in joining the Kentucky Lawyers for the Arts panel of volunteer lawyers.  KyLA provides legal assistance and education to low-income artists of all disciplines and emerging non-profit arts organizations located throughout Kentucky. KyLA’s mission is to improve the ability of artists to create productive and effective relationships with other artists, lawyers, and the business entities on which they depend by educating them about their legal rights and responsibilities. KyLA’s volunteer lawyers provide services to artists of all disciplines who could not otherwise afford legal representation.  KyLA requires all of its volunteer lawyers to be covered by professional liability insurance and to be in good standing with the Kentucky Bar Association.  We sincerely appreciate your willingness to volunteer your time and expertise.
+
+  Please note that all information will be kept strictly CONFIDENTIAL and used only to make contemplated pro bono referrals.</p>
+
+  </div>
+
+
+
+<form>
+ <div class="form-group">
+   <label for="name">Full Name:</label>
+   <input type="name" class="form-control" id="name">
+ </div>
+ <div class="form-group">
+   <label for="Ename">Employers Name:</label>
+   <input type="Ename" class="form-control" id="Ename">
+ </div>
+ <div class="form-group">
+   <label for="address">Address:</label>
+   <input type="address" class="form-control" id="address">
+ </div>
+ <button type="submit" class="btn btn-default">Submit</button>
+</form>
