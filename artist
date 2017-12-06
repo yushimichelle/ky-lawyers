@@ -18,11 +18,11 @@
     </div>
     <div class="navbar-header">
       <a a class="navbar-brand" href="#">KY Lawyer</a>
-    </div>
+      </div>
     <ul class="nav navbar-nav">
       <li><a href="#">HOME</a></li>
-      <li><a href="#">ARTIST REFERRAL</a></li>
-      <li class="active"><a href="#">ATTORNEY VOLUNTEER</a></li>
+      <li class="active"><a href="#">ARTIST REFERRAL</a></li>
+      <li><a href="#">ATTORNEY VOLUNTEER</a></li>
       <li><a href="#">BOARO</a></li>
       <li><a href="#">CONTACT US</a></li>
       <li><a href="#">DONATE</a></li>
@@ -34,8 +34,7 @@
 
 <style>
 p {
-
-    margin-top: 50px;
+    margin-top: 20px;
     margin-bottom: 70px;
     margin-right: 100px;
     margin-left: 100px;
@@ -45,14 +44,19 @@ h1 {
     margin-right: 100px;
     margin-left: 100px;
 }
+h3 {
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
 
 
 </style>
 
-<h1>Attorney Volunteer </h1>
-<p><font size="4">Thank you for your interest in joining the Kentucky Lawyers for the Arts panel of volunteer lawyers.  KyLA provides legal assistance and education to low-income artists of all disciplines and emerging non-profit arts organizations located throughout Kentucky. KyLA’s mission is to improve the ability of artists to create productive and effective relationships with other artists, lawyers, and the business entities on which they depend by educating them about their legal rights and responsibilities. KyLA’s volunteer lawyers provide services to artists of all disciplines who could not otherwise afford legal representation.  KyLA requires all of its volunteer lawyers to be covered by professional liability insurance and to be in good standing with the Kentucky Bar Association.  We sincerely appreciate your willingness to volunteer your time and expertise.
-
-Please note that all information will be kept strictly CONFIDENTIAL and used only to make contemplated pro bono referrals.
+<h1>Artist Referral </h1>
+<h3>** IMPORTANT NOTE ** PLEASE READ ** </h3>
+<p><font size="4">KyLA does NOT provide legal advice of any kind, nor does it provide traditional paid referrals to locate attorneys or other professionals. There are state and regional programs that can make those referrals. KyLA makes *only* referrals of qualifying artists and arts organizations to pro bono *attorneys*. KyLA will not make referrals to physicians, accountants, or other specialists or professionals, nor will it make referrals to attorneys on a for-pay basis.
+Some of the available referral programs in Kentucky may be found here: <a href="http://www.kyjustice.org/offices"  target="_blank"> http://www.kyjustice.org/offices.</a>Please note that KyLA is not affiliated with any of these entities and it does not endorse or vouch for information found on other websites.
 </font>
 </p>
 
@@ -63,8 +67,8 @@ Please note that all information will be kept strictly CONFIDENTIAL and used onl
    <input type="name" class="form-control" id="name">
  </div>
  <div class="form-group" style="margin-left:100px">
-   <label for="ename">Employers Name:</label>
-   <input type="ename" class="form-control" id="ename">
+   <label for="aname">Artists Name:</label>
+   <input type="aname" class="form-control" id="aname">
  </div>
  <div class="form-group" style="margin-left:100px">
    <label for="address">Address:</label>

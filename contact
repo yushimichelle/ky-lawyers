@@ -22,9 +22,9 @@
     <ul class="nav navbar-nav">
       <li><a href="#">HOME</a></li>
       <li><a href="#">ARTIST REFERRAL</a></li>
-      <li class="active"><a href="#">ATTORNEY VOLUNTEER</a></li>
+      <li><a href="#">ATTORNEY VOLUNTEER</a></li>
       <li><a href="#">BOARO</a></li>
-      <li><a href="#">CONTACT US</a></li>
+      <li class="active"><a href="#">CONTACT US</a></li>
       <li><a href="#">DONATE</a></li>
     </ul>
   </div>
@@ -33,10 +33,8 @@
 
 
 <style>
-p {
-
-    margin-top: 50px;
-    margin-bottom: 70px;
+h5 {
+    margin-top: 40px;
     margin-right: 100px;
     margin-left: 100px;
 }
@@ -45,33 +43,39 @@ h1 {
     margin-right: 100px;
     margin-left: 100px;
 }
-
+h2 {
+    margin-top: 130px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom:40px
+}
 
 </style>
 
-<h1>Attorney Volunteer </h1>
-<p><font size="4">Thank you for your interest in joining the Kentucky Lawyers for the Arts panel of volunteer lawyers.  KyLA provides legal assistance and education to low-income artists of all disciplines and emerging non-profit arts organizations located throughout Kentucky. KyLA’s mission is to improve the ability of artists to create productive and effective relationships with other artists, lawyers, and the business entities on which they depend by educating them about their legal rights and responsibilities. KyLA’s volunteer lawyers provide services to artists of all disciplines who could not otherwise afford legal representation.  KyLA requires all of its volunteer lawyers to be covered by professional liability insurance and to be in good standing with the Kentucky Bar Association.  We sincerely appreciate your willingness to volunteer your time and expertise.
-
-Please note that all information will be kept strictly CONFIDENTIAL and used only to make contemplated pro bono referrals.
+<h1>Contact Us </h1>
+<h5><font size="4">E-mail: info@kylawyersforthearts.org
 </font>
-</p>
-
+</h5>
+<h2>Questions?</h2>
 
 <form>
  <div class="form-group" style="margin-left:100px" >
-   <label for="name">Full Name:</label>
+   <label for="name">Your Name:</label>
    <input type="name" class="form-control" id="name">
  </div>
  <div class="form-group" style="margin-left:100px">
-   <label for="ename">Employers Name:</label>
-   <input type="ename" class="form-control" id="ename">
+   <label for="company">Company:</label>
+   <input type="company" class="form-control" id="company">
  </div>
  <div class="form-group" style="margin-left:100px">
-   <label for="address">Address:</label>
-   <input type="address" class="form-control" id="address">
+   <label for="email">Email:</label>
+   <input type="email" class="form-control" id="email">
+ </div>
+ <div class="form-group" style="margin-left:100px">
+   <label for="reason">Reason for contacting:</label>
+   <input type="reason" class="form-control" id="reason">
  </div>
  <button type="submit" class="btn btn-default" style="margin-left:100px">Submit</button>
 </form>
-
 
 </body>

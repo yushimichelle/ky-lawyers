@@ -1,0 +1,50 @@
+<html lang="en">
+<head>
+  <title>KY LAWYER</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+
+<body style="height:1500px">
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <div style="width:1500px;height:100px;background-color:#002b42;">
+      <img src="kylawyers_logo.png" width="130px" height="95px" alt="logo">
+    </div>
+    <div class="navbar-header">
+      <a a class="navbar-brand" href="#">KY Lawyer</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="#">HOME</a></li>
+      <li><a href="#">ARTIST REFERRAL</a></li>
+      <li><a href="#">ATTORNEY VOLUNTEER</a></li>
+      <li><a href="#">BOARO</a></li>
+      <li><a href="#">CONTACT US</a></li>
+      <li class="active"><a href="#">DONATE</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+
+<style>
+p {
+
+    margin-top: 250px;
+    margin-bottom: 70px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+</style>
+
+<p><font size="4">Lorem ipsum dolor sit amet, ex dolor causae has. Et quo albucius percipitur. Nibh deseruisse pri an, fabellas tractatos id qui. In per primis adversarium. Prima electram molestiae pro te, nec insolens convenire consulatu ut. Ex vix enim feugiat mnesarchum, vim omnium feugiat at, vel et quot saperet insolens.
+Lorem ipsum dolor sit amet, ex dolor causae has. Et quo albucius percipitur. Nibh deseruisse pri an, fabellas tractatos id qui. In per primis adversarium. Prima electram molestiae pro te, nec insolens convenire consulatu ut. Ex vix enim feugiat mnesarchum, vim omnium feugiat at, vel et quot saperet insolens.
+Lorem ipsum dolor sit amet, ex dolor causae has. Et quo albucius percipitur. Nibh deseruisse pri an, fabellas tractatos id qui. In per primis adversarium. Prima electram molestiae pro te, nec insolens convenire consulatu ut. Ex vix enim feugiat mnesarchum, vim omnium feugiat at, vel et quot saperet insolens.
+</font>
+</p>
