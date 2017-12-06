@@ -48,3 +48,11 @@ Lorem ipsum dolor sit amet, ex dolor causae has. Et quo albucius percipitur. Nib
 Lorem ipsum dolor sit amet, ex dolor causae has. Et quo albucius percipitur. Nibh deseruisse pri an, fabellas tractatos id qui. In per primis adversarium. Prima electram molestiae pro te, nec insolens convenire consulatu ut. Ex vix enim feugiat mnesarchum, vim omnium feugiat at, vel et quot saperet insolens.
 </font>
 </p>
+
+<div class="container" style="text-align: center;">
+<button type="button" class="btn btn-primary btn-lg">PayPal</button>
+</div>
+
+
+</body>
+</html>

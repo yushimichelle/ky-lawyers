@@ -1,0 +1,77 @@
+<html lang="en">
+<head>
+  <title>KY LAWYER</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+
+<body style="height:1500px">
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <div style="width:1500px;height:100px;background-color:#002b42;">
+      <img src="kylawyers_logo.png" width="130px" height="95px" alt="logo">
+    </div>
+    <div class="navbar-header">
+      <a a class="navbar-brand" href="#">KY Lawyer</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">HOME</a></li>
+      <li><a href="#">ARTIST REFERRAL</a></li>
+      <li><a href="#">ATTORNEY VOLUNTEER</a></li>
+      <li><a href="#">BOARO</a></li>
+      <li><a href="#">CONTACT US</a></li>
+      <li><a href="#">DONATE</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+
+<style>
+p {
+
+    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+h1 {
+    margin-top: 250px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+h2 {
+    margin-top: 150px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+</style>
+
+<h1>About Us </h1>
+<p><font size="4">Kentucky Lawyers for the Arts has one mission: to support the Kentucky arts community by providing referrals to attorneys that are willing to offer pro bono legal services to qualifying artists and arts organizations.
+KyLA is a "lean" organization that operates entirely online. In order to provide our referral services free-of-charge, we do not occupy a physical office and we rely entirely upon volunteers. By operating without overhead we are able to maintain our independence and flexibility while ensuring our efforts are entirely focused on helping Kentucky artists.
+Click <a href="http://www.kylawyersforthearts.org/s/KyLA-Bylaws-pdf.pdf"  target="_blank">here</a> to view our by-laws, or click<a href="http://www.kylawyersforthearts.org/s/KyLA-Conflicts-of-Interest-pdf.pdf"  target="_blank"> here</a> to view our conflicts of interest policy.
+</font>
+</p>
+
+<h2>Testimonials</h2>
+<p><font size="4">"I feel fortunate to have found your organization and also to have had the benefit of someone who was willing to share their expertise."
+--Dianne A., independent Kentucky artist
+</font>
+</p>
+<p><font size="4">"Volunteering with Kentucky Lawyers for the Arts is a great way to give back to the Lexington community. So far, I have assisted a local band with a contract dispute and helped a local cultural organization obtain 501(c)(3) status. The referrals have been straightforward and relatively quick to complete, and the artists are so grateful for the assistance they receive. I would recommend the organization to anyone looking for a unique way to support the arts community in Kentucky."
+                                          --Hannah J., volunteer attorneyI
+                                          </font>
+                                          </p>
+<p><font size="4">"I am still in awe of how fast the process was--I only wish we had been connected to KYLA much sooner. You guys are a wonderful resource! We are now able to pursue grants, etc., that can enable us to get back to the task of offering top-notch classes in the various arts."
+--Denise Brown
+Executive-Artistic Director
+Les McCann School for the Arts
+</font>
+</p>
